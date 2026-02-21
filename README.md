@@ -1,5 +1,3 @@
----
-
 # 🏋️ MEX Exercise Classification
 
 **Author:** Ana Arsić
