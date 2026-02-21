@@ -1,0 +1,2 @@
+Algoritam,Train Accuracy,Train F1-macro,Test Accuracy,Test F1-macro,Varijanta
+Decision Tree,1.0,1.0,0.9922,0.976,Full (svi atributi)

@@ -1,0 +1,5 @@
+Varijanta,Algoritam,Train Accuracy,Train F1-macro,Test Accuracy,Test F1-macro
+Full (svi atributi),Decision Tree,1.0,1.0,0.9922,0.976
+KBest50 (mutual_info),Random Forest,0.9922,0.9816,0.9845,0.9725
+PCA90 (90% varijanse),Logistic Regression,0.9864,0.9687,0.9845,0.9624
+PCA95 (95% varijanse),Logistic Regression,0.9903,0.9756,0.9845,0.9623
